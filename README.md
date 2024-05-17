@@ -2,7 +2,7 @@
 
 meu nome é Nicolle Mayumi
 
--Estou estudando na Alura
+-Estou estudando na [Alura](https://www.alura.com.br/)
 
 -Estou me desenvolvendo na linguagem JavaScript
 
@@ -12,3 +12,4 @@ meu nome é Nicolle Mayumi
 
 00001107566915sp@al.educacao.sp.gov.br
 
+> Escrito por Nicolle Mayumi 
